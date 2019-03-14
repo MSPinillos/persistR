@@ -1,0 +1,18 @@
+Package: persistR
+Title: Resilience and post-disturbance dynamics of natural communities
+Version: 0.0.0.9000
+Authors@R: 
+ person("Martina", "Sánchez-Pinillos", email = "martina.sanchezpinillos@gmail.com", 
+ role = c("aut", "cre"))
+Description: A set of functions to calculate different quantitative indices and apply descriptive analyses of post-disturbance dynamics. The quantitative indicators include metrics based on species response traits to disturbances and indices of resistance and resilience based on dissimilarities between different temporal states defined in relation to the occurrence of a disturbance. The descriptive analyses include functions to represent individual or summarized dynamical pathways of disturbed communities in a multidimensional space of species composition.
+Depends: R (>= 3.5.0)
+Imports:
+    graphics,
+    reshape2 (>= 1.4.3),
+    shape (>= 1.4.4),
+    stats,
+    vegan (>= 2.5-2)
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1

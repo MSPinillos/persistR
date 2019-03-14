@@ -1,0 +1,22 @@
+#' @title Response trait data
+#'
+#' @description \code{traits} contains data on abundance and artificial response
+#' traits of hypothetical species present in simulated communities.
+#'
+#' @format \code{traits} contains a list with two data frames:
+#' \describe{
+#'    \item{abundance}{A data frame with the relative abundance of 10 hypothetical
+#'    species (columns) in 30 artificial communities (rows).}
+#'    \item{RTdata}{A data frame with presence (1) and absence (0) values of
+#'    artificial response traits (columns) for each species (rows) considered
+#'    in the simulated communities.}
+#' }
+#'
+#' @details Artificial communities were generated for combinations of three factors:
+#' trait frequency, number of species (1-10), and number of traits (1-5). The
+#' probability of traits to be present in each species was considered uniformly
+#' distributed between 0 and 1. Species abundance values were drawn from  uniform
+#' distribution, and then, standardized to relative abundances.
+#'
+
+"traits"

@@ -1,0 +1,21 @@
+#' @title Post-disturbance dynamics data
+#'
+#' @description \code{postdisturbance} contains data on the variation of artificial
+#' communities after an hypothetical disturbance.
+#'
+#' @format \code{postdisturbance} contains a list with artificial data to illustrate
+#' the usage of functions on post-disturbance dynamics:
+#' \describe{
+#'    \item{abundance}{A data frame with the relative abundance of five hypothetical
+#'    species (columns) in each of the three states (pre-disturbance, disturbed, and
+#'    post-disturbance states) of 300 artificial communities (rows).}
+#'    \item{sites}{A vector indicating the site of each community state.}
+#'    \item{surveys}{A vector indicating the survey of each community state.}
+#'    \item{cluster}{A vector indicating the cluster to which each community state
+#'    belongs according to their species composition.}
+#' }
+#'
+#' @details Artificial communities were generated...
+#'
+
+"post_disturbance"
