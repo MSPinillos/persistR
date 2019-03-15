@@ -8,7 +8,7 @@
 * Calculate resistance and resilience indices based on dissimilarities between different temporal states defined in relation to the occurrence of a disturbance (Sánchez-Pinillos et al. unpublished)
 * Assess post-disturbance dynamics of natural communities through dynamical pathways represented in a multidimensional space (Sánchez-Pinillos et al. unpublished).
 
-## Package instalation
+## Package installation
 
 ```R
 devtools::install_github("MSPinillos/persistR")
