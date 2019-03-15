@@ -14,5 +14,8 @@
 devtools::install_github("MSPinillos/persistR")
 ```
 
+## References
 
+Sánchez-Pinillos, M., Coll, L., De Cáceres, M., Ameztegui, A., 2016. Assessing the persistence capacity of communities facing natural disturbances on the basis of species response traits. Ecol. Indic. 66, 76-85.
 
+Sánchez-Pinillos, M., Leduc, A., Ameztegui, A., Kneeshaw, D., Lloret, F., Coll, L., Submitted. Resistance, resilience or change: post-disturbance dynamics of boreal forests after insect outbreaks.
