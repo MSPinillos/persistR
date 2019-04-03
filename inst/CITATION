@@ -1,0 +1,16 @@
+citHeader("To cite 'persistR' package in publications use:")
+
+citEntry(entry="Manual",
+         title = "Resistance, resilience or change: post-disturbance dynamics of boreal forests after insect outbreaks",
+         author = "Martina Sánchez-Pinillos, Alain Leduc, Aitor Ameztegui, Dan Kneeshaw, Francisco Lloret, Lluís Coll",
+         journal = "Ecosystems",
+         year = "2019",
+         textVersion =
+         paste("Sánchez-Pinillos, M., Leduc, A., Ameztegui, A., Kneeshaw, D., Lloret, F., Coll, L. (2019). ",
+               "Resistance, resilience or change: post-disturbance dynamics of boreal forests after insect outbreaks. ",
+               "Ecosystems",
+               ", DOI 10.1007/s10021-019-00378-6",
+               sep=""),
+         )
+
+citFooter("Thank you for using 'persistR'")
