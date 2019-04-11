@@ -15,7 +15,7 @@
 #'    belongs according to their species composition.}
 #' }
 #'
-#' @details Artificial communities were generated...
+#' @details Artificial communities were generated to be used in examples for some functions.
 #'
 
 "post_disturbance"
