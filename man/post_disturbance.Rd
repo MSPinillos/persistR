@@ -23,6 +23,6 @@ post_disturbance
 communities after an hypothetical disturbance.
 }
 \details{
-Artificial communities were generated...
+Artificial communities were generated to be used in examples for some functions.
 }
 \keyword{datasets}
