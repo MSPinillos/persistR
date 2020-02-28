@@ -113,8 +113,8 @@ avg.pathways(abundance = post_disturbance$abundance,
 }
 \references{
 Sánchez-Pinillos, M., Leduc, A., Ameztegui, A. Kneeshaw, D., Lloret, F.,
-Coll, L. Resistance, resilience or change: post-disturbance dynamics of boreal forests
-after insect outbreaks. (Submitted to Ecosystems)
+Coll, L. 2019. Resistance, resilience or change: post-disturbance dynamics of boreal forests
+after insect outbreaks. Ecosystems. https://doi.org/10.1007/s10021-019-00378-6
 }
 \seealso{
 \code{\link{pathways}}
