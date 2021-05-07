@@ -4,7 +4,8 @@
 \name{post_disturbance}
 \alias{post_disturbance}
 \title{Post-disturbance dynamics data}
-\format{\code{postdisturbance} contains a list with artificial data to illustrate
+\format{
+\code{postdisturbance} contains a list with artificial data to illustrate
 the usage of functions on post-disturbance dynamics:
 \describe{
    \item{abundance}{A data frame with the relative abundance of five hypothetical
@@ -14,7 +15,8 @@ the usage of functions on post-disturbance dynamics:
    \item{surveys}{A vector indicating the survey of each community state.}
    \item{cluster}{A vector indicating the cluster to which each community state
    belongs according to their species composition.}
-}}
+}
+}
 \usage{
 post_disturbance
 }

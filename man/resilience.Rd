@@ -4,8 +4,14 @@
 \alias{resilience}
 \title{Resilience index}
 \usage{
-resilience(d, sites, surveys, Rt.quantile = NULL, Rt.value = NULL,
-  resistance = FALSE)
+resilience(
+  d,
+  sites,
+  surveys,
+  Rt.quantile = NULL,
+  Rt.value = NULL,
+  resistance = FALSE
+)
 }
 \arguments{
 \item{d}{a symmetric \code{matrix} or an object of class \code{dist} cointaining

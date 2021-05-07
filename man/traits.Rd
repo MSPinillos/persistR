@@ -4,14 +4,16 @@
 \name{traits}
 \alias{traits}
 \title{Response trait data}
-\format{\code{traits} contains a list with two data frames:
+\format{
+\code{traits} contains a list with two data frames:
 \describe{
    \item{abundance}{A data frame with the relative abundance of 10 hypothetical
    species (columns) in 30 artificial communities (rows).}
    \item{RTdata}{A data frame with presence (1) and absence (0) values of
    artificial response traits (columns) for each species (rows) considered
    in the simulated communities.}
-}}
+}
+}
 \usage{
 traits
 }

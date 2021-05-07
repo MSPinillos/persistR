@@ -4,8 +4,14 @@
 \alias{persistence}
 \title{Persistence Index}
 \usage{
-persistence(abundance, RTdata, id.species = NULL, w = NULL,
-  index = NULL, na.values = NULL)
+persistence(
+  abundance,
+  RTdata,
+  id.species = NULL,
+  w = NULL,
+  index = NULL,
+  na.values = NULL
+)
 }
 \arguments{
 \item{abundance}{A data frame containing species relative abundance in target
